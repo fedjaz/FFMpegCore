@@ -19,7 +19,7 @@
 - Updates to dependendies
 - A lot of bug fixes</PackageReleaseNotes>
     <LangVersion>8</LangVersion>
-    <PackageVersion>4.8.0</PackageVersion>
+    <PackageVersion>4.8.1</PackageVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>Malte Rosenbjerg, Vlad Jerca, Max Bagryantsev</Authors>
     <PackageTags>ffmpeg ffprobe convert video audio mediafile resize analyze muxing</PackageTags>
